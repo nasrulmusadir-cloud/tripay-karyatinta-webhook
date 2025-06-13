@@ -1,0 +1,12 @@
+{
+  "name": "tripay-karyatinta-webhook",
+  "version": "1.0.0",
+  "description": "Webhook callback handler for Tripay in Karya Tinta",
+  "main": "tripay-webhook.js",
+  "scripts": {
+    "start": "node tripay-webhook.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
